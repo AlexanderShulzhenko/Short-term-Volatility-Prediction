@@ -1,4 +1,7 @@
+<img width="948" alt="Снимок экрана 2023-12-21 в 18 33 44" src="https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/96e554cf-d433-4205-8419-da7f55c1a27e">
+
 # Short-term volatility prediction with LightGBM
+
 This repo introduces a framework with implemented **LightGBM model** and **feature engineering scripts** to predict **short-term volatility fluctuations** of financial assets.
 
 Repo caontains proof of concept for the original paper, which could be found via ??
