@@ -17,4 +17,4 @@ The repo contains **4 main feature modules**:
 - Exchange data features;
 - Stochastic process features.
 
-Repo also contains **module combination** part, which merges all the features and trains the model using LightGBM. 
+Repo also contains **module combination** part, which merges all the features and trains the **model using LightGBM**. This notebook also contains model results analysis and basic statistics needed for the performance check. 
