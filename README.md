@@ -1,4 +1,4 @@
-![DALL·E 2023-12-22 12 43 37 - cyberpunk stock exchange with skyscrappers](https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/6e7d5a54-768c-4b6a-8caf-cc1c3bf55246)
+![DALL·E 2023-12-22 12 43 37 - cyberpunk stock exchange with skyscrappers](https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/9d693e61-61e6-426a-b1a9-778f4dd924fe)
 
 # Short-term volatility prediction with LightGBM
 
