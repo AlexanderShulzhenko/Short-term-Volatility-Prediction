@@ -1,4 +1,4 @@
-<img width="948" alt="Снимок экрана 2023-12-21 в 18 33 44" src="https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/96e554cf-d433-4205-8419-da7f55c1a27e">
+![DALL·E 2023-12-22 12 43 37 - cyberpunk stock exchange with skyscrappers](https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/6e7d5a54-768c-4b6a-8caf-cc1c3bf55246)
 
 # Short-term volatility prediction with LightGBM
 
