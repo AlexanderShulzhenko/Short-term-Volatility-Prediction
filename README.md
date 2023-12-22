@@ -10,7 +10,7 @@ Emphasizing cryptocurrency markets, known for their heightened volatility compar
 
 The structure of this repo is outlined on the fugure below (marked parts are presented in the repo):
 
-<img width="656" alt="Снимок экрана 2023-12-22 в 19 53 08" src="https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/9a9ba5ae-aca0-443e-8e60-9fd4c5ececd1">
+<img width="669" alt="Снимок экрана 2023-12-22 в 19 54 24" src="https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/26fc3504-38b7-4d57-9132-f7a87ef77052">
 
 ## Repo structure
 
