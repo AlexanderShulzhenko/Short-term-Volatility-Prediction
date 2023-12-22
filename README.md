@@ -1,4 +1,4 @@
-![repo_preview_wide](https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/7771bc15-0022-4d68-912f-25465cee7313)
+![repo_preview_wide_small](https://github.com/AlexanderShulzhenko/Short-term-Volatility-Prediction/assets/80621503/d5157771-c5c9-441f-89f3-a6aee0d832cb)
 
 # Short-term volatility prediction with LightGBM
 
